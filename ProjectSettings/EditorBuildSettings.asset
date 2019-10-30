@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 5a93291ef9f7e4692a1225f87f883db0
+  - enabled: 1
+    path: Assets/Scenes/Intro Movie.unity
+    guid: cf8ae7a0dd682402e91becc7ac98bfbd
+  - enabled: 1
+    path: Assets/Scenes/Cutscene 1.unity
+    guid: 661da56fb5fcd4a59b34b3ad641efdad
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 7013d9396dcd54c64babbf296ec886f4
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: dad9b68655c014eb594ade03fd4841aa
+  - enabled: 1
+    path: Assets/Scenes/FK Boss Level.unity
+    guid: dde41dff59f204c19a7826d11b663d8f
+  - enabled: 1
+    path: Assets/Scenes/Guame.unity
+    guid: 7df183c7644fd4fd884a2ff06fe79668
+  - enabled: 1
+    path: Assets/Scenes/Success.unity
+    guid: 7706815238a444f1b8fc8d02af7174be
+  m_configObjects: {}
