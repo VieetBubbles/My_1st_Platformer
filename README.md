@@ -7,7 +7,13 @@ My personal graduation project in order to fulfill the prerequisite for completi
 
 As such, this is project was my 1st time using Unity, Visual Studio(IDE), and the C# programming language.
 
-Villager Vick is a 2D Pixel Platformer game created using the Unity game engine. Thw goal of the game is finish 3 levels of increasing difficulties by running pass and avoiding enemy sprites until the player reaches the finish line.
+Villager Vick is a 2D Pixel Platformer game created using the Unity game engine. The goal of the game is finish 3 levels of increasing difficulties by running pass and avoiding enemy sprites until the player reaches the finish line.
 
 ## Disclaimer
 Initially, the 2 week project was completed and submitted for grading without a README.md attached. This README.md file was added at a later date for reference purposes. If future recruiters see this disclaimer... let it be known that during the final days of the project, I made the self-conscious decision to push the game's packages to Github without the need to write a README.md; my reasoning was the belief that a fixing the bugs and typos of the game took precedence over the README documentation. It is a decision I take responsibility for and will not refute.
+
+## Acknowledgment/Thanks
+* **Grayson Stiegler** - [gstieg](https://github.com/gstieg): Code Reviewer
+* **Alia Vang**: Tester
+* **George Solorio** - [GeorgeSolorio](https://github.com/GeorgeSolorio): Tester
+* **Nga La** - [sungna](https://github.com/sungnga): Tester
