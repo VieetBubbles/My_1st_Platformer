@@ -22,15 +22,18 @@ The game's files should work on both a PC or Mac, so long as you have the Unity 
 
 Storage Requirements: 83.9MB
 
-## What the Unity U.I should look like if you want to test the files
+## What the Unity U.I should look like if you want to test the files.
 ![screenshot2](https://i.imgur.com/dHw1zTF.png)
 
 ### Controls
 PLease be using a keyboard when attempting to play this game.
 
 Move Left: A key
+
 Move Right: D key
+
 Jump: W key
+
 Attack: Q key
 
 To exit the game, please either force quit the game application, finish all 3 level, or lose all life counts and respawn in the main menu and click the quit button.
