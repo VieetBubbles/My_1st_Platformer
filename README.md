@@ -1,5 +1,5 @@
 # My_1st_Platformer
-![1st screenshot](https://imgur.com/kN9PHRr)
+![1screenshot](https://i.imgur.com/kN9PHRr.png)
 
 ## 2 Week Game Project: Villager Vick
 
