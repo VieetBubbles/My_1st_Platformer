@@ -22,6 +22,9 @@ The game's files should work on both a PC or Mac, so long as you have the Unity 
 
 Storage Requirements: 83.9MB
 
+## What the Unity U.I should look like if you want to test the files
+![screenshot2](https://i.imgur.com/dHw1zTF.png)
+
 ### Controls
 PLease be using a keyboard when attempting to play this game.
 
