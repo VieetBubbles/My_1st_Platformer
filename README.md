@@ -28,15 +28,15 @@ Storage Requirements: 83.9MB
 ### Controls
 PLease be using a keyboard when attempting to play this game.
 
-Move Left: A key
+**Move Left:** A key
 
-Move Right: D key
+**Move Right:** D key
 
-Jump: W key
+**Jump:** W key
 
-Attack: Q key
+**Attack:** Q key
 
-To exit the game, please either force quit the game application, finish all 3 level, or lose all life counts and respawn in the main menu and click the quit button.
+**To exit the game:** please either force quit the game application, finish all 3 level, or lose all life counts and respawn in the main menu and click the quit button.
 
 ## Acknowledgment/Thanks
 * **Grayson Stiegler** - [gstieg](https://github.com/gstieg): Code Reviewer
